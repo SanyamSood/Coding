@@ -30,6 +30,6 @@ vector <int> productExceptSelf(vector<int>& nums) {
         }
         return res;
 
-int main(){
-	vector<int> nums;
-}
+//int main(){
+//	vector<int> nums;
+//}
